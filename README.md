@@ -1,8 +1,5 @@
 <p align="center">
-<img 
-    src="./assets/Banner.png"
-    flex=1  
-/>
+<img src="./Assets/Banner.png" />
 </p>
 
 # E-book_Para_iniciantes_em_react_native
